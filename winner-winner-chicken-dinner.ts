@@ -1,5 +1,6 @@
 import fs from "fs";
 
+// Thank you sponsors!!
 const prizes = [
   "1. Ze pickle $100",
   "2. Ze pickle $75",
@@ -11,7 +12,7 @@ const prizes = [
   "8. All Sports Physiotherapy Kangaroo Point",
   "9. Hawthorne Coffee",
   "10. Yilay",
-  "11. Go-to Skin Care",
+  "11. Go-to Skin Care Pack",
   "12. Suit Society",
   "13. Voco Hotel (1 Night Stay)",
   "14. Hotel Indigo (1 Night Stay)",

@@ -45,3 +45,13 @@ We then remove this number from the array, so that it cannot be picked again.
 Once this is done, we print out our prizes and their winners.
 
 Thanks for playing and supporting mens health!!
+
+### How to run
+
+Assumes that you have a file `raffle-entries.json` which contains an array like above of all ticket purchases and the amount they purchased.
+
+From root, then run (assuming you have bun installed):
+
+```
+bun winner-winner-chicken-dinner.ts
+```
